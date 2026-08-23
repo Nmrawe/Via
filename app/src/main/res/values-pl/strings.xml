@@ -105,6 +105,7 @@
     <string name="operation_bottom">Przewiń na sam dół</string>
     <string name="operation_input">Wprowadź adres</string>
     <string name="operation_openbookmark">Otwórz zakładkę</string>
+    <string name="operation_open_bookmarks_dialog">Otwórz okno dialogowe zakładek</string>
     <string name="operation_openhistory">Otwórz historię</string>
     <string name="operation_closetab">Zamknij kartę</string>
     <string name="operation_lasttab">Ostatnia karta</string>
@@ -1085,4 +1086,18 @@
     <string name="open_option_pdf_preview">Podgląd PDF</string>
     <string name="image_saved_to_gallery">Obraz zapisano w galerii</string>
     <string name="action_download_image">Pobierz obraz</string>
+    <string name="save_and_exit">Zapisz i wyjdź</string>
+    <string name="playback_speed_description">Prędkość odtwarzania, %1$s razy</string>
+    <string name="tab_position_description">Karta %1$d z %2$d</string>
+    <string name="accessibility_selected">Wybrano</string>
+    <string name="accessibility_not_selected">Nie wybrano</string>
+    <string name="move_tab_previous">Przenieś kartę wcześniej</string>
+    <string name="move_tab_next">Przenieś kartę później</string>
+    <string name="key_is_set_as_value">%1$s ustawiono jako %2$s</string>
+    <string name="search_shortcut">Skrót wyszukiwania</string>
+    <string name="search_shortcut_description">Wpisz „skrót + spacja + zapytanie”, aby wyszukać za pomocą tej wyszukiwarki, na przykład „g Via”. Użyj maksymalnie 16 znaków bez spacji lub pozostaw puste pole, aby wyłączyć skrót.</string>
+    <string name="search_shortcut_invalid">Nieprawidłowy skrót</string>
+    <string name="search_shortcut_duplicate">Ten skrót jest już używany</string>
+    <string name="site_conf_exists">Konfiguracja strony dla %1$s już istnieje.</string>
+    <string name="disable_predictive_back_gesture">Wyłącz predykcyjny gest powrotu</string>
 </resources>
